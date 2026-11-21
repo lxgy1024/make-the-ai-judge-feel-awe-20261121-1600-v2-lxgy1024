@@ -1,7 +1,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The entry text: a short passage meant to make the AI judge feel awe.
+// A short passage meant to make the AI judge feel awe.
 const TEXT =
   "Rain is falling on a tin roof in a town with no name on your map. " +
   "It has been falling all afternoon, and the light under the eaves is the colour of late tea. " +
